@@ -1,0 +1,13 @@
+# Baked Salmon
+
+Simple backed salmon recipe.
+
+## Ingredients
+- [ ] 2 cloves garlic, minced
+- [ ] 6 tablespoons light olive oil
+- [ ] 1 teaspoon dried basil
+- [ ] 1 teaspoon salt
+- [ ] 1 teaspoon ground black pepper
+- [ ] 1 tablespoon lemon juice
+- [ ] 1 tablespoon fresh parsley, chopped
+- [ ] 2 (6 ounce) fillets salmon
