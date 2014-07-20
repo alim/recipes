@@ -11,3 +11,11 @@ Simple backed salmon recipe.
 - [ ] 1 tablespoon lemon juice
 - [ ] 1 tablespoon fresh parsley, chopped
 - [ ] 2 (6 ounce) fillets salmon
+
+## Directions
+
+1. In a medium glass bowl, prepare marinade by mixing garlic, light olive oil, basil, salt, pepper, lemon juice and parsley. Place salmon fillets in a medium glass baking dish, and cover with the marinade. Marinate in the refrigerator about 1 hour, turning occasionally.
+
+2. Preheat oven to 375 degrees F (190 degrees C).
+
+3. Place fillets in aluminum foil, cover with marinade, and seal. Place sealed salmon in the glass dish, and bake 35 to 45 minutes, until easily flaked with a fork.
